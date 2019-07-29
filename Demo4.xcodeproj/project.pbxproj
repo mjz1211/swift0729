@@ -25,6 +25,24 @@
 		49AA92A122EE9AED00413A63 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		49AA92A722EE9B3100413A63 /* lab1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab1.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		49AA92A822EEA01F00413A63 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		49AA92AA22EEBC5700413A63 /* lab2_var_let.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab2_var_let.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		49AA92AB22EEBFDA00413A63 /* lab3_var_let_advance.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab3_var_let_advance.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		49AA92AC22EEC14E00413A63 /* lab4_print.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab4_print.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		49AA92AD22EEC2CC00413A63 /* lab5_coersion.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab5_coersion.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		49AA92AE22EEC3E600413A63 /* lab6_coersion2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab6_coersion2.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		49AA92AF22EEC56D00413A63 /* lab7_String_Formatter.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab7_String_Formatter.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		49AA92B022EEC73000413A63 /* lab8_array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab8_array.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		49AA92B122EEC9A800413A63 /* lab9_dictionary.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab9_dictionary.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		49AA92B222EECE6300413A63 /* lab10.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab10.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		49B3533A22EED36C00AC74BD /* lab11_nullify.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab11_nullify.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		49B3533B22EED85F00AC74BD /* lab12_nullify2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab12_nullify2.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		49B3533C22EED97B00AC74BD /* lab13_switch.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab13_switch.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		49B3533D22EEDD3900AC74BD /* lab14.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab14.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		49B3533E22EEE16700AC74BD /* lab15_closure.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab15_closure.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		49B3533F22EEE53500AC74BD /* lab16_closure.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab16_closure.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		49B3534022EEE89000AC74BD /* lab17_closure.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab17_closure.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		49B3534122EEEC0700AC74BD /* lab18_callFunc.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab18_callFunc.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		49B3534222EEEE9E00AC74BD /* lab19_.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab19_.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -43,6 +61,24 @@
 			children = (
 				49AA92A822EEA01F00413A63 /* README.md */,
 				49AA92A722EE9B3100413A63 /* lab1.playground */,
+				49AA92AA22EEBC5700413A63 /* lab2_var_let.playground */,
+				49AA92AB22EEBFDA00413A63 /* lab3_var_let_advance.playground */,
+				49AA92AC22EEC14E00413A63 /* lab4_print.playground */,
+				49AA92AD22EEC2CC00413A63 /* lab5_coersion.playground */,
+				49AA92AE22EEC3E600413A63 /* lab6_coersion2.playground */,
+				49AA92AF22EEC56D00413A63 /* lab7_String_Formatter.playground */,
+				49AA92B022EEC73000413A63 /* lab8_array.playground */,
+				49AA92B122EEC9A800413A63 /* lab9_dictionary.playground */,
+				49AA92B222EECE6300413A63 /* lab10.playground */,
+				49B3533A22EED36C00AC74BD /* lab11_nullify.playground */,
+				49B3533B22EED85F00AC74BD /* lab12_nullify2.playground */,
+				49B3533C22EED97B00AC74BD /* lab13_switch.playground */,
+				49B3533D22EEDD3900AC74BD /* lab14.playground */,
+				49B3533E22EEE16700AC74BD /* lab15_closure.playground */,
+				49B3533F22EEE53500AC74BD /* lab16_closure.playground */,
+				49B3534022EEE89000AC74BD /* lab17_closure.playground */,
+				49B3534122EEEC0700AC74BD /* lab18_callFunc.playground */,
+				49B3534222EEEE9E00AC74BD /* lab19_.playground */,
 				49AA929422EE9AEC00413A63 /* Demo4 */,
 				49AA929322EE9AEC00413A63 /* Products */,
 			);
