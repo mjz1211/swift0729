@@ -16,6 +16,34 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		494C334D22F00E98007B280C /* lab31_IMPORTANT_struct_and_class.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab31_IMPORTANT_struct_and_class.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		494C334E22F01352007B280C /* lab32_struct.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab32_struct.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		494C334F22F01526007B280C /* lab33_class_reference.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab33_class_reference.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		494C335022F01C74007B280C /* lab34_dictionary_equal.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab34_dictionary_equal.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		494C335122F01DCA007B280C /* lab35_array_equal.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab35_array_equal.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		494C335222F022B9007B280C /* lab36_store_property.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab36_store_property.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		494C335322F02447007B280C /* lab37_type_property.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab37_type_property.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		494C335422F028BA007B280C /* lab38_property_observer.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab38_property_observer.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		494C335522F02A8C007B280C /* lab39.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab39.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		494C335622F02BAC007B280C /* lab40_constructor.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab40_constructor.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		494C335722F02EFF007B280C /* lab41_mutating.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab41_mutating.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		494C335822F0333F007B280C /* lab42.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab42.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		494C335922F03499007B280C /* lab43_self_assignment.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab43_self_assignment.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		494C335A22F0363D007B280C /* lab44_static_func.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab44_static_func.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		494C335B22F037EC007B280C /* lab45_subscript.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab45_subscript.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		494C335C22F03B7E007B280C /* lab46.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab46.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		494C335D22F03EF9007B280C /* lab47_Generic.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab47_Generic.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		494C335E22F041FA007B280C /* lab48.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab48.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		49608CEF22EFD16D00458F4A /* lab21_swap.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab21_swap.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		49608CF022EFD7F600458F4A /* lab22_function_pointer.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab22_function_pointer.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		49608CF122EFDB4B00458F4A /* lab23_function_array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab23_function_array.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		49608CF222EFDE7200458F4A /* lab24_pass_many.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab24_pass_many.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		49608CF322EFE06800458F4A /* lab25.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab25.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		49608CF422EFE16B00458F4A /* lab26_return_function.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab26_return_function.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		49608CF522EFE30B00458F4A /* lab27_function_state.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab27_function_state.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		49608CF622EFEB3C00458F4A /* lab28_enum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab28_enum.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		49608CF722EFED5B00458F4A /* lab29.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab29.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		49608CF822EFF78900458F4A /* lab30.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab30.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		49AA929222EE9AEC00413A63 /* Demo4.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Demo4.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		49AA929522EE9AEC00413A63 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		49AA929722EE9AEC00413A63 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -59,6 +87,34 @@
 		49AA928922EE9AEC00413A63 = {
 			isa = PBXGroup;
 			children = (
+				494C335E22F041FA007B280C /* lab48.playground */,
+				494C335D22F03EF9007B280C /* lab47_Generic.playground */,
+				494C335C22F03B7E007B280C /* lab46.playground */,
+				494C335B22F037EC007B280C /* lab45_subscript.playground */,
+				494C335A22F0363D007B280C /* lab44_static_func.playground */,
+				494C335922F03499007B280C /* lab43_self_assignment.playground */,
+				494C335822F0333F007B280C /* lab42.playground */,
+				494C335722F02EFF007B280C /* lab41_mutating.playground */,
+				494C335622F02BAC007B280C /* lab40_constructor.playground */,
+				494C335522F02A8C007B280C /* lab39.playground */,
+				494C335422F028BA007B280C /* lab38_property_observer.playground */,
+				494C335322F02447007B280C /* lab37_type_property.playground */,
+				494C335222F022B9007B280C /* lab36_store_property.playground */,
+				494C335122F01DCA007B280C /* lab35_array_equal.playground */,
+				494C335022F01C74007B280C /* lab34_dictionary_equal.playground */,
+				494C334F22F01526007B280C /* lab33_class_reference.playground */,
+				494C334E22F01352007B280C /* lab32_struct.playground */,
+				494C334D22F00E98007B280C /* lab31_IMPORTANT_struct_and_class.playground */,
+				49608CF822EFF78900458F4A /* lab30.playground */,
+				49608CF722EFED5B00458F4A /* lab29.playground */,
+				49608CF622EFEB3C00458F4A /* lab28_enum.playground */,
+				49608CF522EFE30B00458F4A /* lab27_function_state.playground */,
+				49608CF422EFE16B00458F4A /* lab26_return_function.playground */,
+				49608CF322EFE06800458F4A /* lab25.playground */,
+				49608CF222EFDE7200458F4A /* lab24_pass_many.playground */,
+				49608CF122EFDB4B00458F4A /* lab23_function_array.playground */,
+				49608CEF22EFD16D00458F4A /* lab21_swap.playground */,
+				49608CF022EFD7F600458F4A /* lab22_function_pointer.playground */,
 				49AA92A822EEA01F00413A63 /* README.md */,
 				49AA92A722EE9B3100413A63 /* lab1.playground */,
 				49AA92AA22EEBC5700413A63 /* lab2_var_let.playground */,
